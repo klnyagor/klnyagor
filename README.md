@@ -9,8 +9,8 @@
   <h1> 🌐 Hello World! 👋</h1>
     <h2>
       <div>
-      👨‍💻 Eu sou Yagor Kalenieves 👨‍💻 <br/> 👨‍💻 I'm Yagor Kalenieves 👨‍💻 <br/><br/>
-      💻 Boas-vindas ao meu perfil no Github! 🙋‍♂️ <br/> 💻 Welcome to my Github profile! 🙋‍♂️
+      👨‍💻 Eu sou Yagor Kalenieves 👨‍💻 <br/> 💻 Boas-vindas ao meu perfil no Github! 🙋‍♂️ <br/><br/>
+      👨‍💻 I'm Yagor Kalenieves 👨‍💻 <br/> 💻 Welcome to my Github profile! 🙋‍♂️
     </h2>
 </div>
 
